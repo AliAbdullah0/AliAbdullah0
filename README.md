@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AliAbdullah0
+- 👀 I’m interested in Programming In C++,JavaScript and more..
+- 🌱 I’m currently learning Backend Programming
+- 💞️ I’m looking to collaborate on Small Web development Projects
+- 📫 How to reach me Just DM Me on Instagram:@aliabdullah.cpp
