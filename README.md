@@ -3,3 +3,6 @@
 ## Projects
 ![My Projects](https://github-readme-tech-stack.vercel.app/api/cards?title=My+Projects&lineCount=3&theme=dracula&bg=%23282A36&badge=%23343746&border=%23343746&titleColor=%23BD93F9&line1=filter%2CUFR+INSIGHTS%2C0a39dc%3Bfood%2CEL+CASTILLO+DORADO%2Ce1973d%3B&line2=ai%2CIMAGE%2COBJECT+%26+REAL+TIME+DETECTION%2Ce41c78%3BBLOGai%2CBlogai%2Ce42e2e%3B&line3=Threadflow%2CThreadflow%2C1e32cf%3Bnpm%2CINPUT+VALIDIFY%2Ce4451a%3B)
 
+## Learning Never Stops!
+![Currently Learning](https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Learning&lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=python%2CPYTHON%2Ce17616%3Bdjango%2CDJANGO%2Cd77b27%3Bpytorch%2CAI%2FML%2Cec8920%3Bdevops%2CDEVOPS%2Cef9412%3Bfirebase%2CFIREBASE%2Cdd6210%3Bcloudfare%2CCLOUDFARE%2Cef6900%3B)](https://github.com/username)
+
