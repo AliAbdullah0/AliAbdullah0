@@ -17,7 +17,7 @@
 
 ### 📌 Notable Contributions  
 - 🏗 Built [input-validify](https://github.com/AliAbdullah0/npm-package-validify)
-- 💡 250+ Downloads 
+- 💡 240+ Downloads 
 ---
 
 ✨ **Explore more of my work on [GitHub](https://github.com/AliAbdullah0)** ✨
