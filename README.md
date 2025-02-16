@@ -8,7 +8,7 @@
 
 
 ## Learning Never Stops!
-![Currently Learning](https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Learning&lineCount=2&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=python%2CPYTHON%2Ce17616%3Bdjango%2CDJANGO%2Cd77b27%3Bpytorch%2CAI%2FML%2Cec8920%3B&line2=devops%2CDEVOPS%2Cef9412%3Bfirebase%2CFIREBASE%2Cdd6210%3Bcloudfare%2CCLOUDFARE%2Cef6900%3B)
+![Currently Learning](https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Learning&lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=python%2CPYTHON%2Ce17616%3Bdjango%2CDJANGO%2Cd77b27%3Bpytorch%2CAI%2FML%2Cec8920%3Bdevops%2CDEVOPS%2Cef9412%3B)
 
 ## 🚀 Contributions & Repositories
 
