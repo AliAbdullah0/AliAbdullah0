@@ -15,13 +15,6 @@
 ### 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliAbdullah0&show_icons=true&theme=tokyonight&count_private=true)
 
-### 🔥 Streak Stats  
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliAbdullah0&theme=tokyonight)
-
-### 🌟 Top Repositories  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullah0&repo=Repo1&theme=tokyonight)](https://github.com/AliAbdullah0/React-Supabase-Project)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullah0&repo=Repo2&theme=tokyonight)](https://github.com/AliAbdullah0/npm-package-validify)
-
 ### 📌 Notable Contributions  
 - 🏗 Built [input-validify](https://github.com/AliAbdullah0/npm-package-validify)
 - 💡 250+ Downloads 
