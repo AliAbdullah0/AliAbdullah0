@@ -10,3 +10,21 @@
 ## Learning Never Stops!
 ![Currently Learning](https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Learning&lineCount=2&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=python%2CPYTHON%2Ce17616%3Bdjango%2CDJANGO%2Cd77b27%3Bpytorch%2CAI%2FML%2Cec8920%3B&line2=devops%2CDEVOPS%2Cef9412%3Bfirebase%2CFIREBASE%2Cdd6210%3Bcloudfare%2CCLOUDFARE%2Cef6900%3B)
 
+## 🚀 Contributions & Repositories
+
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliAbdullah0&show_icons=true&theme=tokyonight&count_private=true)
+
+### 🔥 Streak Stats  
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliAbdullah0&theme=tokyonight)
+
+### 🌟 Top Repositories  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullah0&repo=Repo1&theme=tokyonight)](https://github.com/AliAbdullah0/React-Supabase-Project)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullah0&repo=Repo2&theme=tokyonight)](https://github.com/AliAbdullah0/npm-package-validify)
+
+### 📌 Notable Contributions  
+- 🏗 Built [input-validify](https://github.com/AliAbdullah0/npm-package-validify)
+- 💡 250+ Downloads 
+---
+
+✨ **Explore more of my work on [GitHub](https://github.com/AliAbdullah0)** ✨
