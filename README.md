@@ -21,8 +21,11 @@
 
 
 ### 📌 Notable Contributions  
-- 🏗 Built [input-validify](https://github.com/AliAbdullah0/npm-package-validify)
+- 🏗 Built [input-validify](https://www.npmjs.com/package/input-validify)
 - 💡 240+ Downloads 
+---
+- 🏗 Built [verify-env-cli](https://www.npmjs.com/package/verify-env-cli)
+- 💡 Just Published
 ---
 
 ✨ **Explore more of my work on [GitHub](https://github.com/AliAbdullah0)** ✨
