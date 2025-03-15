@@ -22,7 +22,7 @@
 
 ### 📌 Notable Contributions  
 - 🏗 Built [input-validify](https://www.npmjs.com/package/input-validify)
-- 💡 240+ Downloads 
+- 💡 300+ Downloads 
 ---
 - 🏗 Built [verify-env-cli](https://www.npmjs.com/package/verify-env-cli)
 - 💡 Just Published
