@@ -27,5 +27,7 @@
 - 🏗 Built [verify-env-cli](https://www.npmjs.com/package/verify-env-cli)
 - 💡 220+ Downloads
 ---
+- 🏗 Built [code-lens-cli](https://www.npmjs.com/package/code-lens-cli)
+- 💡 Just Published!
 
 ✨ **Explore more of my work on [GitHub](https://github.com/AliAbdullah0)** ✨
