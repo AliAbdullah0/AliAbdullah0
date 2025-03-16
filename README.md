@@ -25,7 +25,7 @@
 - 💡 300+ Downloads 
 ---
 - 🏗 Built [verify-env-cli](https://www.npmjs.com/package/verify-env-cli)
-- 💡 Just Published
+- 💡 220+ Downloads
 ---
 
 ✨ **Explore more of my work on [GitHub](https://github.com/AliAbdullah0)** ✨
