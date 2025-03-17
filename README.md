@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ali Abdullah!  
-### 🚀 Next.js Developer | Open-Source Enthusiast  
+### 🚀 Next.js Developer  | Open-Source Enthusiast  
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/A)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliAbdullah0)  
