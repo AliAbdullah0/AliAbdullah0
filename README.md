@@ -78,6 +78,6 @@
 ### 🚀 Open Source Projects  
 - 🏗 **[input-validify](https://www.npmjs.com/package/input-validify)** (300+ Downloads)  
 - 🏗 **[verify-env-cli](https://www.npmjs.com/package/verify-env-cli)** (220+ Downloads)  
-- 🏗 **[code-lens-cli](https://www.npmjs.com/package/code-lens-cli)** (Just Published!)  
+- 🏗 **[code-lens-cli](https://www.npmjs.com/package/code-lens-cli)** (200 Downloads!)  
 
 ✨ **Explore more of my work on [GitHub](https://github.com/AliAbdullah0)** ✨
