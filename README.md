@@ -76,8 +76,8 @@
 ## 📌 Notable Contributions  
 
 ### 🚀 Open Source Projects  
-- 🏗 **[input-validify](https://www.npmjs.com/package/input-validify)** (350+ Downloads)  
-- 🏗 **[verify-env-cli](https://www.npmjs.com/package/verify-env-cli)** (300+ Downloads)  
-- 🏗 **[code-lens-cli](https://www.npmjs.com/package/code-lens-cli)** (200 Downloads!)  
+- 🏗 **[input-validify](https://www.npmjs.com/package/input-validify)** (370+ Downloads)  
+- 🏗 **[verify-env-cli](https://www.npmjs.com/package/verify-env-cli)** (340+ Downloads)  
+- 🏗 **[code-lens-cli](https://www.npmjs.com/package/code-lens-cli)** (220+ Downloads!)  
 
 ✨ **Explore more of my work on [GitHub](https://github.com/AliAbdullah0)** ✨
