@@ -1,83 +1,86 @@
-# 👋 Hi, I'm Ali Abdullah!  
-### 🚀 Next.js Developer | Open-Source Enthusiast  
+# 👋 Hi, I'm Ali Abdullah!
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/A)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliAbdullah0)  
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~zedento)  
+🚀 **Next.js Developer | Open-Source Enthusiast**
 
----
+Passionate about building scalable web applications and contributing to open-source projects. I specialize in crafting seamless user experiences with modern technologies and AI-driven solutions.
 
-## 💻 Tech Stack  
-
-<table>
-  <tr>
-    <td><b>🌐 Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>🛠 Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
-      <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Databases & ORM</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-      <img src="https://img.shields.io/badge/Neon-00D8FF?style=for-the-badge&logo=neon&logoColor=black">
-    </td>
-  </tr>
-  <tr>
-    <td><b>📊 Data & Scripting</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>🛠 Dev Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-      <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://facebook.com/A">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/AliAbdullah0">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.npmjs.com/~zedento">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM"/>
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=AliAbdullah0&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=AliAbdullah0&theme=blue-green&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdullah0&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+## 💻 Tech Stack
 
-## 🏆 GitHub Trophies  
-![](https://github-trophies.vercel.app/?username=AliAbdullah0&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)  
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Shadcn-%23000000.svg?style=flat-square&logo=shadcn&logoColor=white" alt="Shadcn"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 
-[![](https://visitcount.itsvg.in/api?id=AliAbdullah0&icon=0&color=0)](https://visitcount.itsvg.in)  
+### 🛠 Backend
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white" alt="Strapi"/>
+<img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Vapi_AI-%23000000.svg?style=flat-square&logo=vapi-ai&logoColor=white" alt="Vapi AI"/>
+
+### 🗄️ Databases & ORM
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Prisma-1B222D?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Neon-00D8FF?style=flat-square&logo=neon&logoColor=black" alt="Neon"/>
+
+### 📊 Data & Scripting
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+
+### 🛠 Dev Tools
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 
 ---
 
-## 📌 Notable Contributions  
+## 📊 GitHub Stats
 
-### 🚀 Open Source Projects  
-- 🏗 **[input-validify](https://www.npmjs.com/package/input-validify)** (370+ Downloads)  
-- 🏗 **[verify-env-cli](https://www.npmjs.com/package/verify-env-cli)** (340+ Downloads)  
-- 🏗 **[code-lens-cli](https://www.npmjs.com/package/code-lens-cli)** (220+ Downloads!)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliAbdullah0&show_icons=true&theme=transparent" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdullah0&layout=compact&theme=transparent" alt="Top Languages"/>
+</div>
+
+---
+
+## 📌 Notable Contributions
+
+### 🚀 Open Source Projects
+- 🏗 **input-validify** ([NPM](https://www.npmjs.com/package/input-validify)) - 370+ Downloads  
+  A lightweight library for input validation in JavaScript projects.
+- 🏗 **verify-env-cli** ([NPM](https://www.npmjs.com/package/verify-env-cli)) - 340+ Downloads  
+  A CLI tool to verify environment variables during development.
+- 🏗 **code-lens-cli** ([NPM](https://www.npmjs.com/package/code-lens-cli)) - 220+ Downloads  
+  A utility for code analysis and insights via the command line.
 
 ✨ **Explore more of my work on [GitHub](https://github.com/AliAbdullah0)** ✨
+
+---
+
+## 📈 Visitors
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AliAbdullah0&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Visitor Count"/>
+</div>
