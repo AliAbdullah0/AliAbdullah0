@@ -48,6 +48,7 @@ Passionate about building scalable web applications and contributing to open-sou
   <img src="https://img.shields.io/badge/Prisma-1B222D?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Neon-00D8FF?style=flat-square&logo=neon&logoColor=black" alt="Neon"/>
+  <img src="https://img.shields.io/badge/Prismic?style=flat-square&logo=neon&logoColor=black" alt="Prismiq"/>
 </div>
 
 ### 📊 Data & Scripting
