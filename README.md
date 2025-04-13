@@ -80,6 +80,8 @@ Passionate about building scalable web applications and contributing to open-sou
 ### 🚀 Open Source Projects
 - 🏗 **input-validify** ([NPM](https://www.npmjs.com/package/input-validify)) - 370+ Downloads  
   A lightweight library for input validation in JavaScript projects.
+- 🏗 **prismiq** ([NPM](https://www.npmjs.com/package/prismiq)) - Just Published!  
+  A Typescript Based Schema Builder Language for prisma.
 - 🏗 **verify-env-cli** ([NPM](https://www.npmjs.com/package/verify-env-cli)) - 340+ Downloads  
   A CLI tool to verify environment variables during development.
 - 🏗 **code-lens-cli** ([NPM](https://www.npmjs.com/package/code-lens-cli)) - 220+ Downloads  
