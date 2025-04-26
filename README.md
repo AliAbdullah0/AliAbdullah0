@@ -7,7 +7,7 @@ Passionate about building scalable web applications and contributing to open-sou
 <div align="center">
   <a href="https://facebook.com/A">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  </a> 
   <a href="https://github.com/AliAbdullah0">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
