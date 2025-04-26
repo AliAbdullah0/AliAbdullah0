@@ -5,7 +5,7 @@
 Passionate about building scalable web applications and contributing to open-source projects. I specialize in crafting seamless user experiences with modern technologies and AI-driven solutions.
 
 <div align="center">
-  <a href="https://facebook.com/A"> 
+  <a href="https://facebook.com/AliAbdullah190"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a> 
   <a href="https://github.com/AliAbdullah0">
