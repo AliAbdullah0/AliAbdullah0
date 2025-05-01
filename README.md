@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ali Abdullah!
 
 🚀 **Next.js Developer | Open-Source Enthusiast**
-
+ 
 Passionate about building scalable web applications and contributing to open-source projects. I specialize in crafting seamless user experiences with modern technologies and AI-driven solutions.
 
 <div align="center">
