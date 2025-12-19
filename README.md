@@ -36,17 +36,13 @@ Passionate about building scalable web applications and contributing to open-sou
 ### 🛠 Backend
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white" alt="Strapi"/>
   <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Vapi_AI-%23000000.svg?style=flat-square&logo=v toasted-ai&logoColor=white" alt="Vapi AI"/>
 </div>
 
 ### 🗄️ Databases & ORM
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Prisma-1B222D?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Neon-00D8FF?style=flat-square&logo=neon&logoColor=black" alt="Neon"/>
   
 </div>
